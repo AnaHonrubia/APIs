@@ -162,31 +162,31 @@
   },
   {
     "id": "24",
-    "nombre": "Zancadas con Mancuernas",
+    "nombre": "Zancadas con Mancuernas Caminando",
     "grupo": "Pierna",
     "imagen": "https://thumbs.dreamstime.com/b/exercising-estocadas-con-pesas-de-gimnasia-43639121.jpg",
     "descripcion": "Trabajo unilateral de pierna y equilibrio."
   },
   {
     "id": "25",
-    "nombre": "Elevación de Talones",
+    "nombre": "Elevación de Gemelos",
     "grupo": "Pierna",
     "imagen": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaci%C3%B3n-de-talones-de-pie-en-m%C3%A1quina.jpg",
     "descripcion": "Ejercicio específico para los gemelos."
   },
   {
     "id": "26",
-    "nombre": "Elevación de Talones",
+    "nombre": "Sentadilla Búlgara",
     "grupo": "Pierna",
-    "imagen": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaci%C3%B3n-de-talones-de-pie-en-m%C3%A1quina.jpg",
-    "descripcion": "Ejercicio específico para los gemelos."
+    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-bulgarian-split-squat-600nw-2170517495.jpg",
+    "descripcion": "Sentadilla unilateral con pie apoyado atrás (elevado)."
   },
   {
     "id": "27",
-    "nombre": "Elevación de Talones",
+    "nombre": "Hip Thrust",
     "grupo": "Pierna",
-    "imagen": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaci%C3%B3n-de-talones-de-pie-en-m%C3%A1quina.jpg",
-    "descripcion": "Ejercicio específico para los gemelos."
+    "imagen": "https://i.pinimg.com/736x/61/9b/56/619b56c6acbaaac2136a14bec2e69e73.jpg",
+    "descripcion": "Empuje de cadera para máximo trabajo de glúteo."
   },
   {
     "id": "28",
