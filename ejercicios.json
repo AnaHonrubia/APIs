@@ -38,42 +38,42 @@
     "id": "6",
     "nombre": "Dominadas",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/pull-ups.png",
+    "imagen": "https://eresfitness.com/wp-content/uploads/2020/02/25291105-Assisted-Pull-up-female_Back_max.png",
     "descripcion": "Tracción vertical para trabajar el dorsal ancho."
   },
   {
     "id": "7",
     "nombre": "Remo con Barra",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/barbell-row.png",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ16FrFV9pFdAOVK7zHblg3klGMA2_EaGu4ow&s",
     "descripcion": "Tracción horizontal para densidad de espalda."
   },
   {
     "id": "8",
     "nombre": "Jalón al Pecho",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/lat-pulldown.png",
+    "imagen": "https://i.pinimg.com/736x/31/76/ef/3176efc9f4a19182c843f45d64d84127.jpg",
     "descripcion": "Simulación de dominada en polea alta."
   },
   {
     "id": "9",
     "nombre": "Remo en Polea Baja",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/seated-row.png",
+    "imagen": "https://i.pinimg.com/736x/40/a9/8c/40a98ce074740459647143d89c37a3e5.jpg",
     "descripcion": "Remo sentado con agarre estrecho."
   },
   {
     "id": "10",
     "nombre": "Pull-over con Polea Alta",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/straight-arm-pulldown.png",
+    "imagen": "https://i.pinimg.com/originals/5a/7b/29/5a7b29582bc26568e17458f45d49d96e.jpg",
     "descripcion": "Aislamiento del dorsal con brazos extendidos."
   },
   {
     "id": "11",
     "nombre": "Hiperextensiones",
     "grupo": "Espalda",
-    "imagen": "assets/ejercicios/hyperextensions.png",
+    "imagen": "https://thumbs.dreamstime.com/b/mujer-haciendo-extensiones-de-espalda-hiperextensi%C3%B3n-ejercicio-ilustraci%C3%B3n-vectorial-plana-aislada-en-fondo-blanco-232883403.jpg",
     "descripcion": "Fortalecimiento de la zona lumbar."
   },
   {
