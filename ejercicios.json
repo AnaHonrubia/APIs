@@ -157,35 +157,35 @@
     "id": "23",
     "nombre": "Curl de Bíceps con Barra EZ",
     "grupo": "Brazos",
-    "imagen": "assets/ejercicios/ez-bar-curl.png",
+    "imagen": "https://i.pinimg.com/474x/87/c1/e1/87c1e1920aa7d4658196e9142bc0c33c.jpg",
     "descripcion": "Trabajo de bíceps con agarre ergonómico."
   },
   {
     "id": "24",
     "nombre": "Curl Martillo",
     "grupo": "Brazos",
-    "imagen": "assets/ejercicios/hammer-curl.png",
+    "imagen": "https://www.shutterstock.com/image-illustration/cross-body-hammer-curls-3d-260nw-419477203.jpg",
     "descripcion": "Enfocado en el braquial y supinador largo."
   },
   {
     "id": "25",
     "nombre": "Press Francés",
     "grupo": "Brazos",
-    "imagen": "assets/ejercicios/french-press.png",
+    "imagen": "https://media2.100x100fitness.com/stupload/stblog/1/92/108/92108large.jpg",
     "descripcion": "Extensión de tríceps tras nuca con barra."
   },
   {
     "id": "26",
     "nombre": "Extensión de Tríceps en Polea",
     "grupo": "Brazos",
-    "imagen": "assets/ejercicios/tricep-pushdown.png",
+    "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Triceps-Pressdown_e759437b-6200-4b44-b484-14db770024a4_600x600.png?v=1612136845",
     "descripcion": "Empuje hacia abajo con cuerda o barra."
   },
   {
     "id": "27",
     "nombre": "Fondos en Paralelas",
     "grupo": "Brazos",
-    "imagen": "assets/ejercicios/dips.png",
+    "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
     "descripcion": "Empuje para tríceps y pectoral inferior."
   },
   {
