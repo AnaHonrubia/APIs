@@ -337,44 +337,44 @@
   },
   {
     "id": "49",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Elevación de Piernas Colgado",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://static.vecteezy.com/system/resources/previews/026/751/931/non_2x/man-doing-hanging-leg-raises-side-view-abdominals-exercise-vector.jpg",
+    "descripcion": "Enfocado en la parte inferior del abdomen."
   },
   {
     "id": "50",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Russian Twists",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-russian-twists-exercise-260nw-2081284318.jpg",
+    "descripcion": "Rotación de tronco para oblicuos."
   },
   {
     "id": "51",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Dead Bug",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://www.shutterstock.com/image-vector/women-doing-dead-bug-workout-600nw-1776494810.jpg",
+    "descripcion": "Estabilidad lumbo-pélvica coordinada."
   },
   {
     "id": "52",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Woodchopper en Polea",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://i.pinimg.com/564x/1d/e3/9c/1de39cb6eca2809ae99b3ffe7b05e72c.jpg",
+    "descripcion": "Movimiento diagonal para potencia rotacional."
   },
   {
     "id": "53",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Bird Dog",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://as1.ftcdn.net/jpg/03/88/01/14/1000_F_388011481_Lqge0ZseDLHDePGNdzEgsQIJYh7uDuzP.jpg",
+    "descripcion": "Estabilidad y fortalecimiento lumbar."
   },
   {
     "id": "54",
-    "nombre": "Rueda Abdominal",
+    "nombre": "Mountain Climbers",
     "grupo": "Core",
-    "imagen": "https://www.shutterstock.com/image-vector/woman-doing-abdominal-roller-exercise-600nw-2095799230.jpg",
-    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+    "imagen": "https://www.shutterstock.com/shutterstock/photos/1355595689/display_1500/stock-vector-mountain-climber-exercise-for-abs-workout-in-the-gym-fitness-and-healthy-lifestyle-muscle-1355595689.jpg",
+    "descripcion": "Core dinámico con componente cardiovascular."
   }
 ]
