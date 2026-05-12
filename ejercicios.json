@@ -129,28 +129,28 @@
     "id": "19",
     "nombre": "Press Militar",
     "grupo": "Hombros",
-    "imagen": "assets/ejercicios/military-press.png",
+    "imagen": "https://thumbs.dreamstime.com/b/mujer-haciendo-ejercicio-de-presi%C3%B3n-sobre-el-hombro-ilustraci%C3%B3n-vectorial-plana-aislada-en-fondo-blanco-223180618.jpg",
     "descripcion": "Empuje vertical para hombro anterior y medio."
   },
   {
     "id": "20",
     "nombre": "Elevaciones Laterales",
     "grupo": "Hombros",
-    "imagen": "assets/ejercicios/lateral-raises.png",
+    "imagen": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaciones-laterales-con-mancuernas.jpg",
     "descripcion": "Aislamiento de la cabeza lateral del deltoides."
   },
   {
     "id": "21",
     "nombre": "Pájaros con Mancuernas",
     "grupo": "Hombros",
-    "imagen": "assets/ejercicios/reverse-flys.png",
+    "imagen": "https://i.pinimg.com/736x/f9/43/b6/f943b66833c27c6dbd5b272fd8f067a5.jpg",
     "descripcion": "Enfocado en la parte posterior del hombro."
   },
   {
     "id": "22",
     "nombre": "Face Pull",
     "grupo": "Hombros",
-    "imagen": "assets/ejercicios/face-pull.png",
+    "imagen": "https://i.pinimg.com/736x/95/c7/1d/95c71d9d4897a6e661938d72617604a4.jpg",
     "descripcion": "Tracción a la cara para salud del hombro y deltoides posterior."
   },
   {
