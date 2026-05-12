@@ -274,45 +274,45 @@
   },
   {
     "id": "40",
-    "nombre": "Extensión de Tríceps en Polea",
+    "nombre": "Extensión de Tríceps en Polea Alta",
     "grupo": "Brazos",
     "imagen": "https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Triceps-Pressdown_e759437b-6200-4b44-b484-14db770024a4_600x600.png?v=1612136845",
     "descripcion": "Empuje hacia abajo con cuerda o barra."
   },
   {
     "id": "41",
-    "nombre": "Fondos en Paralelas",
+    "nombre": "Fondos en Paralelas o Fondos entre bancos",
     "grupo": "Brazos",
     "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
     "descripcion": "Empuje para tríceps y pectoral inferior."
   },
   {
     "id": "42",
-    "nombre": "Fondos en Paralelas",
+    "nombre": "Curl Concentrado",
     "grupo": "Brazos",
-    "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
-    "descripcion": "Empuje para tríceps y pectoral inferior."
+    "imagen": "https://s3assets.skimble.com/assets/2922308/image_full.jpg",
+    "descripcion": "Aislamiento máximo del pico del bíceps."
   },
   {
     "id": "43",
-    "nombre": "Fondos en Paralelas",
+    "nombre": "Curl de Biceps en Polea Baja",
     "grupo": "Brazos",
-    "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
-    "descripcion": "Empuje para tríceps y pectoral inferior."
+    "imagen": "https://i.pinimg.com/736x/ea/e7/a8/eae7a862f667418ca13cce6d927d0193.jpg",
+    "descripcion": "Tensión constante en todo el recorrido."
   },
   {
     "id": "44",
-    "nombre": "Fondos en Paralelas",
+    "nombre": "Curl Predicados (Scott)",
     "grupo": "Brazos",
-    "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
-    "descripcion": "Empuje para tríceps y pectoral inferior."
+    "imagen": "https://thumbs.dreamstime.com/z/mujer-haciendo-ejercicio-de-b%C3%ADceps-m%C3%A1quina-predicador-o-rizos-concentraci%C3%B3n-brazos-aislado-en-fondo-blanco-y-capas-273993841.jpg",
+    "descripcion": "Aislamiento de bíceps eliminando balanceo."
   },
   {
     "id": "45",
-    "nombre": "Fondos en Paralelas",
+    "nombre": "Press Estrecho para Triceps",
     "grupo": "Brazos",
-    "imagen": "https://www.shutterstock.com/image-vector/man-doing-dips-on-parallel-260nw-2370406461.jpg",
-    "descripcion": "Empuje para tríceps y pectoral inferior."
+    "imagen": "https://eresfitness.com/wp-content/uploads/2019/11/Press-de-banca-con-agarre-cerrado.jpg",
+    "descripcion": "Press de banca con manos juntas."
   },
   {
     "id": "46",
