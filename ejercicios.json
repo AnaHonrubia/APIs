@@ -80,49 +80,49 @@
     "id": "12",
     "nombre": "Sentadillas Libres",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/squat.png",
+    "imagen": "https://i.pinimg.com/736x/9f/54/eb/9f54eb11e1672e8a1d145a1156d3c2e7.jpg",
     "descripcion": "Ejercicio rey para cuádriceps y glúteos."
   },
   {
     "id": "13",
     "nombre": "Prensa de Piernas",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/leg-press.png",
+    "imagen": "assets/ejercicios/leg-press.pnghttps://www.shutterstock.com/image-vector/woman-using-flat-leg-press-260nw-1438270019.jpg",
     "descripcion": "Empuje de carga en plano inclinado."
   },
   {
     "id": "14",
     "nombre": "Peso Muerto Rumano",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/romanian-deadlift.png",
+    "imagen": "https://i.pinimg.com/736x/42/b3/75/42b3754c790a3da9778f484001dd5257.jpg",
     "descripcion": "Enfocado en isquiotibiales y glúteos."
   },
   {
     "id": "15",
     "nombre": "Extensiones de Cuádriceps",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/leg-extension.png",
+    "imagen": "https://www.shutterstock.com/image-vector/man-doing-leg-extension-on-260nw-2169477623.jpg",
     "descripcion": "Aislamiento de la parte frontal del muslo."
   },
   {
     "id": "16",
     "nombre": "Curl Femoral Tumbado",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/leg-curl.png",
+    "imagen": "https://i.pinimg.com/236x/38/df/13/38df13afe4cad4ff382a0f51fc240cec.jpg",
     "descripcion": "Aislamiento de los isquiotibiales en máquina."
   },
   {
     "id": "17",
     "nombre": "Zancadas con Mancuernas",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/lunges.png",
+    "imagen": "https://thumbs.dreamstime.com/b/exercising-estocadas-con-pesas-de-gimnasia-43639121.jpg",
     "descripcion": "Trabajo unilateral de pierna y equilibrio."
   },
   {
     "id": "18",
     "nombre": "Elevación de Talones",
     "grupo": "Pierna",
-    "imagen": "assets/ejercicios/calf-raises.png",
+    "imagen": "https://eresfitness.com/wp-content/uploads/2019/09/Elevaci%C3%B3n-de-talones-de-pie-en-m%C3%A1quina.jpg",
     "descripcion": "Ejercicio específico para los gemelos."
   },
   {
