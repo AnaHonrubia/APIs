@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "nombre": "Press de Banca",
+    "grupo": "Pecho",
+    "imagen": "assets/ejercicios/bench-press.png",
+    "descripcion": "Empuje con barra en banco plano para pectoral mayor."
+  },
+  {
+    "id": "2",
+    "nombre": "Press Superior con Mancuernas",
+    "grupo": "Pecho",
+    "imagen": "assets/ejercicios/incline-dumbbell-press.png",
+    "descripcion": "Enfocado en el haz clavicular del pectoral."
+  },
+  {
+    "id": "3",
+    "nombre": "Aperturas en Contractor",
+    "grupo": "Pecho",
+    "imagen": "assets/ejercicios/pec-deck.png",
+    "descripcion": "Aislamiento de pecho en máquina peck-deck."
+  },
+  {
+    "id": "4",
+    "nombre": "Cruces de Polea Alta",
+    "grupo": "Pecho",
+    "imagen": "assets/ejercicios/cable-cross.png",
+    "descripcion": "Trabajo de la parte inferior y externa del pecho."
+  },
+  {
+    "id": "5",
+    "nombre": "Flexiones de Brazo",
+    "grupo": "Pecho",
+    "imagen": "assets/ejercicios/push-ups.png",
+    "descripcion": "Ejercicio de autocarga básico para tren superior."
+  },
+  {
+    "id": "6",
+    "nombre": "Dominadas",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/pull-ups.png",
+    "descripcion": "Tracción vertical para trabajar el dorsal ancho."
+  },
+  {
+    "id": "7",
+    "nombre": "Remo con Barra",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/barbell-row.png",
+    "descripcion": "Tracción horizontal para densidad de espalda."
+  },
+  {
+    "id": "8",
+    "nombre": "Jalón al Pecho",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/lat-pulldown.png",
+    "descripcion": "Simulación de dominada en polea alta."
+  },
+  {
+    "id": "9",
+    "nombre": "Remo en Polea Baja",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/seated-row.png",
+    "descripcion": "Remo sentado con agarre estrecho."
+  },
+  {
+    "id": "10",
+    "nombre": "Pull-over con Polea Alta",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/straight-arm-pulldown.png",
+    "descripcion": "Aislamiento del dorsal con brazos extendidos."
+  },
+  {
+    "id": "11",
+    "nombre": "Hiperextensiones",
+    "grupo": "Espalda",
+    "imagen": "assets/ejercicios/hyperextensions.png",
+    "descripcion": "Fortalecimiento de la zona lumbar."
+  },
+  {
+    "id": "12",
+    "nombre": "Sentadillas Libres",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/squat.png",
+    "descripcion": "Ejercicio rey para cuádriceps y glúteos."
+  },
+  {
+    "id": "13",
+    "nombre": "Prensa de Piernas",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/leg-press.png",
+    "descripcion": "Empuje de carga en plano inclinado."
+  },
+  {
+    "id": "14",
+    "nombre": "Peso Muerto Rumano",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/romanian-deadlift.png",
+    "descripcion": "Enfocado en isquiotibiales y glúteos."
+  },
+  {
+    "id": "15",
+    "nombre": "Extensiones de Cuádriceps",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/leg-extension.png",
+    "descripcion": "Aislamiento de la parte frontal del muslo."
+  },
+  {
+    "id": "16",
+    "nombre": "Curl Femoral Tumbado",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/leg-curl.png",
+    "descripcion": "Aislamiento de los isquiotibiales en máquina."
+  },
+  {
+    "id": "17",
+    "nombre": "Zancadas con Mancuernas",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/lunges.png",
+    "descripcion": "Trabajo unilateral de pierna y equilibrio."
+  },
+  {
+    "id": "18",
+    "nombre": "Elevación de Talones",
+    "grupo": "Pierna",
+    "imagen": "assets/ejercicios/calf-raises.png",
+    "descripcion": "Ejercicio específico para los gemelos."
+  },
+  {
+    "id": "19",
+    "nombre": "Press Militar",
+    "grupo": "Hombros",
+    "imagen": "assets/ejercicios/military-press.png",
+    "descripcion": "Empuje vertical para hombro anterior y medio."
+  },
+  {
+    "id": "20",
+    "nombre": "Elevaciones Laterales",
+    "grupo": "Hombros",
+    "imagen": "assets/ejercicios/lateral-raises.png",
+    "descripcion": "Aislamiento de la cabeza lateral del deltoides."
+  },
+  {
+    "id": "21",
+    "nombre": "Pájaros con Mancuernas",
+    "grupo": "Hombros",
+    "imagen": "assets/ejercicios/reverse-flys.png",
+    "descripcion": "Enfocado en la parte posterior del hombro."
+  },
+  {
+    "id": "22",
+    "nombre": "Face Pull",
+    "grupo": "Hombros",
+    "imagen": "assets/ejercicios/face-pull.png",
+    "descripcion": "Tracción a la cara para salud del hombro y deltoides posterior."
+  },
+  {
+    "id": "23",
+    "nombre": "Curl de Bíceps con Barra EZ",
+    "grupo": "Brazos",
+    "imagen": "assets/ejercicios/ez-bar-curl.png",
+    "descripcion": "Trabajo de bíceps con agarre ergonómico."
+  },
+  {
+    "id": "24",
+    "nombre": "Curl Martillo",
+    "grupo": "Brazos",
+    "imagen": "assets/ejercicios/hammer-curl.png",
+    "descripcion": "Enfocado en el braquial y supinador largo."
+  },
+  {
+    "id": "25",
+    "nombre": "Press Francés",
+    "grupo": "Brazos",
+    "imagen": "assets/ejercicios/french-press.png",
+    "descripcion": "Extensión de tríceps tras nuca con barra."
+  },
+  {
+    "id": "26",
+    "nombre": "Extensión de Tríceps en Polea",
+    "grupo": "Brazos",
+    "imagen": "assets/ejercicios/tricep-pushdown.png",
+    "descripcion": "Empuje hacia abajo con cuerda o barra."
+  },
+  {
+    "id": "27",
+    "nombre": "Fondos en Paralelas",
+    "grupo": "Brazos",
+    "imagen": "assets/ejercicios/dips.png",
+    "descripcion": "Empuje para tríceps y pectoral inferior."
+  },
+  {
+    "id": "28",
+    "nombre": "Plancha Abdominal",
+    "grupo": "Core",
+    "imagen": "assets/ejercicios/plank.png",
+    "descripcion": "Resistencia isométrica de la zona media."
+  },
+  {
+    "id": "29",
+    "nombre": "Crunch Abdominal",
+    "grupo": "Core",
+    "imagen": "assets/ejercicios/crunch.png",
+    "descripcion": "Flexión de tronco para recto abdominal."
+  },
+  {
+    "id": "30",
+    "nombre": "Rueda Abdominal",
+    "grupo": "Core",
+    "imagen": "assets/ejercicios/ab-roller.png",
+    "descripcion": "Extensión de abdomen para fuerza avanzada del núcleo."
+  }
+]
