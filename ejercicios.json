@@ -64,7 +64,7 @@
   },
   {
     "id": "10",
-    "nombre": "Dominadas",
+    "nombre": "Dominadas Pronas",
     "grupo": "Espalda",
     "imagen": "https://eresfitness.com/wp-content/uploads/2020/02/25291105-Assisted-Pull-up-female_Back_max.png",
     "descripcion": "Tracción vertical para trabajar el dorsal ancho."
@@ -106,24 +106,24 @@
   },
   {
     "id": "16",
-    "nombre": "Flexiones de Brazo",
+    "nombre": "Remo con Mancuerna a una mano",
     "grupo": "Espalda",
-    "imagen": "hola",
-    "descripcion": "Ejercicio de autocarga básico para tren superior."
+    "imagen": "https://i.blogs.es/ff532c/remo/450_1000.webp",
+    "descripcion": "Trabajo unilateral de dorsal y romboides."
   },
   {
     "id": "17",
-    "nombre": "Flexiones de Brazo",
+    "nombre": "Remo en Punta (Barra T)",
     "grupo": "Espalda",
-    "imagen": "hola",
-    "descripcion": "Ejercicio de autocarga básico para tren superior."
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8_1mku9I9Lw7A50eZHMuv46dmatb4BsryA&s",
+    "descripcion": "Clásico para ganar grosor en la espalda media.."
   },
   {
     "id": "18",
-    "nombre": "Flexiones de Brazo",
+    "nombre": "Jalón con Agarre Estrecho",
     "grupo": "Espalda",
-    "imagen": "hola",
-    "descripcion": "Ejercicio de autocarga básico para tren superior."
+    "imagen": "https://i.pinimg.com/736x/ab/b7/95/abb79534fbdadb6357643c7f54d930be.jpg",
+    "descripcion": "Enfoque en la parte baja del dorsal."
   },
   {
     "id": "19",
